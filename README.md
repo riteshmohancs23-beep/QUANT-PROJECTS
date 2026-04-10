@@ -222,16 +222,21 @@ curl "http://localhost:8000/strategy-performance?ticker=SPY"
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/Dashboard.png)
+
+### Controll Panel
+![Controll Panel](./assets/Controll_Panel.png)
 
 ### Price Chart with Regime Detection
-![Price Chart](./assets/price_chart.png)
-
-### Strategy Performance Comparison
-![Strategy](./assets/strategy.png)
+![Price Chart](./assets/Price_Chart.png)
 
 ### Regime Timeline
-![Timeline](./assets/timeline.png)
+![Timeline](./assets/Regime_Distribution.png)
+
+### Strategy Performance Comparison
+![Strategy](./assets/Backtesting.png)
+
+
 
 ## Disclaimer
 

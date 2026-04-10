@@ -219,6 +219,20 @@ curl "http://localhost:8000/strategy-performance?ticker=SPY"
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](./assets/dashboard.png)
+
+### Price Chart with Regime Detection
+![Price Chart](./assets/price_chart.png)
+
+### Strategy Performance Comparison
+![Strategy](./assets/strategy.png)
+
+### Regime Timeline
+![Timeline](./assets/timeline.png)
+
 ## Disclaimer
 
 This project is for **educational and research purposes only**. Regime labels are backward-looking in-sample predictions. Do not use this as the sole basis for real trading decisions.
